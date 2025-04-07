@@ -34,6 +34,8 @@ Verifica se uma string é um palíndromo, ignorando espaços e diferenças entre
 eh_palindromo("Ame a ema")  # True
 eh_palindromo("Python")     # False
 
+```
+---
 
 ## 🧪 Teste 2 – Contador de Vogais
 
@@ -51,6 +53,8 @@ Crie uma função que receba uma string e retorne o número de vogais (`a`, `e`,
 ```python
 contar_vogais("Brasil é incrível")  # 6
 contar_vogais("Python")              # 1
+```
+---
 
 ## 🧪 Teste 3 – Soma de Números Pares
 
@@ -71,7 +75,8 @@ soma_pares([1, 2, 3, 4, 5, 6])   # 12
 soma_pares([10, 15, 22, 33])     # 32
 soma_pares([])                   # 0
 soma_pares([1, 3, 5, 7])         # 0
-
+```
+---
 
 ## 🧪 Teste 4 – FizzBuzz
 
@@ -115,6 +120,7 @@ ordenar([10, 5, 2, 8, 7])    # [2, 5, 7, 8, 10]
 ordenar([])                  # []
 ordenar([42])                # [42]
 
+```
 
 ## Entrega:
 
